@@ -1,0 +1,21 @@
+.card  {
+	border: 0px;
+	img  {
+		object-fit: cover;
+	}
+	.card-body {
+		padding: 0px;
+		width: 100%;
+		p  {
+		  text-align: left;
+		}
+	}
+}
+
+section#research {
+	p {
+		font-size: 20px;
+		margin-bottom: 50px;
+		text-align: left;
+	}
+}
